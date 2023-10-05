@@ -1,0 +1,48 @@
+
+
+export default [
+    {
+        id: 1,
+        title: "Platanias",
+        flag: "",
+        location: "Creete",
+        googleMapsUrl: "https://maps.app.goo.gl/yuopgGKoFZFVvHJCA",
+        startDate: "11 Aug, 2023 - ",
+        endDate: "18 Aug, 2023",
+        description: "Platanias is a charming coastal town located on the northern coast of the Greek island of Crete. Known for its picturesque beaches, vibrant nightlife, and rich history.",
+        imageUrl: "creete.jpg",
+    },
+    {
+        id: 2,
+        title: "Spain",
+        flag: "",
+        location: "Malaga",
+        googleMapsUrl: "https://maps.app.goo.gl/uJm8Q7a3cV4qmC376",
+        startDate: "11 Aug, 2023 - ",
+        endDate: "18 Aug, 2023",
+        description: "Malaga is a vibrant coastal city on the Costa del Sol, renowned for its stunning beaches, rich Moorish history, and the birthplace of Pablo Picasso. Visitors can explore historic sites, indulge in Spanish cuisine, and enjoy a lively cultural scene.",
+        imageUrl: "../img/malaga.jpg",
+    },
+    {
+        id: 3,
+        title: "Prague",
+        flag: "",
+        location: "Czech Republic",
+        googleMapsUrl: "https://maps.app.goo.gl/ajMDiNgaCZHGMQdb7",
+        startDate: "11 Aug, 2023 - ",
+        endDate: "18 Aug, 2023",
+        description: "Prague, often called the 'City of a Hundred Spires,' boasts a fairy-tale charm with its stunning Gothic and Baroque architecture. It's famous for its historic Old Town, Prague Castle, and the scenic Charles Bridge, making it a must-visit destination for culture and history enthusiasts.",
+        imageUrl: "../img/prague.jpg",
+    },
+    {
+        id: 4,
+        title: "Rome",
+        flag: "",
+        location: "Italy",
+        googleMapsUrl: "https://maps.app.goo.gl/bPQLvfdgtoj77TZR6",
+        startDate: "11 Aug, 2023 - ",
+        endDate: "18 Aug, 2023",
+        description: "Rome, the Eternal City, is a captivating blend of ancient history and modern life. Home to iconic landmarks like the Colosseum, Vatican City, and the Roman Forum, Rome offers a unique opportunity to immerse oneself in art, culture, and centuries of history.",
+        imageUrl: "../img/rome.jpg",
+    },
+]
